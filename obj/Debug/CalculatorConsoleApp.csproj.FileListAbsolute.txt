@@ -1,0 +1,8 @@
+D:\zahran\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+D:\zahran\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+D:\zahran\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+D:\zahran\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+D:\zahran\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.SuggestedBindingRedirects.cache
+D:\zahran\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+D:\zahran\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+D:\zahran\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
